@@ -67,4 +67,52 @@
     margin-top: 5%;
     
 }
+.fourth-container{
+    margin-top: 50px;
+    padding:10px;
+    justify-content:space-evenly;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.card1{
+    width: 250px;
+    height:150px;
+    border-radius:1px solid gray;
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    box-shadow: 6px 6px 12px rgb(155, 144, 144);
+    background-color:rgb(227, 195, 153);
+    
+
+
+}
+.icon-style{
+    width:50px;
+}
+.card2{
+    width: 250px;
+    height:150px;
+    border-radius:1px solid gray;
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: rgb(199, 107, 122);
+    box-shadow: 1px solid gray;
+   
+
+} 
+.card3{
+    width: 250px;
+    height:150px;
+    border-radius:1px solid gray;
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color:rgb(215, 127, 127);
+   
+
+} 
+
     
