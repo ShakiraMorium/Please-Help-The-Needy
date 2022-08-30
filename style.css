@@ -138,5 +138,19 @@ h1{
 p{
     color:black;
 }
+.updating-container{
+    text-align: center;
+    
+}
+.footer{
+    background-color:black;
+    color:red;
+    text-decoration: wavy;
+    padding:40px;
+}
+#style{
+    color:wheat;
+    size:5px;
+}
 
     
