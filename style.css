@@ -16,9 +16,37 @@
  body{
     font-family: 'Poppins', sans-serif;
 }
-.image{
-    /*  background-image: url(images/image1.png.jpg); */
-    height: 300px;
-    display: flex;
-    background-repeat: no-repeat;
+.container{
+    position: relative;
+    text-align: center;
+    color: green;
+    height: 20%;
+    width: auto;
+}
+.banner-items{
+    margin-left: 50px;
+
+
+}
+
+.banner-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 3px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-top: 3px;
+}
+.container-second{
+    text-align: center;
+}
+    
 }
